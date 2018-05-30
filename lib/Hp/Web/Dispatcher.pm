@@ -12,6 +12,6 @@ base 'Hp::Web::C';
 
 get '/' => 'Root#index';
 post '/reset_counter' => 'Root#reset_counter';
-
+post '/post' => 'Root#post_test';
 
 1;

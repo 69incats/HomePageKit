@@ -28,7 +28,8 @@ my $app = builder {
                     or die $DBI::errstr;
             }
         );
-
+    enable 'Plack::Middleware::Debug';
+    enable 'Plack::Middleware::StackTrace', force => 1;
     mount '/static/' => Plack::App::File->new(root => File::Spec->catdir($basedir, '..', 'static', 'web'))->to_app();
     mount '/' => Hp::Web->to_app();
 };
