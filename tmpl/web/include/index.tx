@@ -1,0 +1,72 @@
+: cascade "frame.tx"
+
+: override index -> {
+<div class="photo-slideshow_wrapper">
+    <div class="photo-slideshow">
+        <div>
+            <img src="./img/slideshow_bag1.jpg" class="active">
+        </div>
+        <div>
+            <img src="./img/slideshow_bag2.jpg">
+        </div>
+        <div>
+            <img src="./img/slideshow_bag3.jpg">
+        </div>
+    </div>
+</div>          
+<article>
+    <section>
+        <div class="section_wrapper">
+            <div class="topics_section">
+              <div class="section_title">
+                  <span class="title_style">TOPICS</span>
+              </div>
+              <div class="topics_item">
+                  <ul>
+                    <li><div class="topics_date"><time datetime="2018-04-12">04/12</time></div><div class="topics_text">＊歌川智子活動20周年個展、立川タカシマヤでのバッグ３人展の予定をUPしました。 </div></li>
+                    <li><div class="topics_text">＊歌川智子個展会期中のWS申し込みアドレスを修正しました</div></li>
+                    <li><div class="topics_text">サンプル3</div></li>
+                    <li><div class="topics_text">サンプル4</div></li>
+                    <li><div class="topics_text">サンプル5</div></li>
+                    <li><div class="topics_text">サンプル6</div></li>
+                  </ul>
+              </div>
+            </div>
+            <div class="info_section">
+                <div class="section_title">
+                    <span class="title_style">お知らせ</span>
+                </div>
+                <div class="info_item">
+                    <ul>
+                      <li>
+                          <div class="info_text">＊定期レッスンの情報は講習予定カレンダーご覧ください。</div>
+                      </li>
+                      <li>
+                          <div class="info_text">＊歌川智子が手がける手織り作品に特化したブランド</br>「Atelier de Olive」アトリエ手織り部のFacebookページを作りました。 おりりん同様、こちらもどうぞよろしくお願いいたします！</div>
+                      </li>
+                      <li>
+                          <div class="info_text">＊おりりん®や咲きおりのイベント＆体験WS情報ページはこちら。</div>
+                      </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="section_wrapper">
+            <div class="line_account_section">
+                <div class="section_title"><span class="title_style">LINE account</span></div>
+                <div class="line_account_item">
+                    <div>
+                        <p class="line_account_description">ワイヤーワークス＆ナチュラルワークスのLINEアカウント <span class="strong">@lpl9589e</span> へご登録ください！</br>レッスン空席状況やイベント案内、新作紹介など、最新情報をいち早くお届けいたします。 </p>
+                    </div>
+                    <div class="line_img">
+                        <div class="line_img_text"><p>こちらから登録できます→</p></div>
+                        <img src="../static/img/line_img2.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</article>
+: }

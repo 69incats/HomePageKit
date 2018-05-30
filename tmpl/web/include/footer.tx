@@ -1,0 +1,49 @@
+<footer>
+  <div class="footer_content">
+      <div class="footer_bg_mask">
+          <div class="footer_list_wrappter">
+              <ul class="footer_list_left">
+                  <li>
+                    <a href="#" class="footer_menu_list">
+                        <span>Story of the beginning 〜はじまりのおはなし〜</span></a>
+                  </li>
+                  <li>
+                      <a href="#" class="footer_menu_list">
+                          What's Oririn 〜おりりんってなに？〜
+                      </a>
+                  </li>
+                  <li>
+                      <a href="#" class="footer_menu_list">
+                          Profile & Works 〜プロフィール & 作品集〜
+                      </a>
+                  </li>
+                  <li>
+                      <a href="#" class="footer_menu_list_last">
+                          Lessons 〜うたちゃんのれっすん〜
+                      </a>
+                  </li>
+              </ul>
+              <ul class="footer_list_right">
+                  <li>
+                      <a href="#" class="footer_menu_list">
+                          Online Shop 〜オンラインショップ〜
+                      </a>
+                  </li>
+                  <li>
+                      <a href="#" class="footer_menu_list">
+                        Major Accomplishment 〜今までのお仕事実績〜
+                      </a>
+                  </li>
+                  <li>
+                      <a href="#" class="footer_menu_list">
+                        Can I become a teacher 〜先生になるには？〜
+                      </a>
+                  </li>
+              </ul>
+              <div class="copyright">
+                  <p><span>Copy right &copy; Wire Works & Natural Works</span></p>
+              </div>
+          </div>
+      </div>
+  </div>
+</footer>

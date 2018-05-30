@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="<: static_file('/static/css/style.css') :>">
+        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.0/slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.0/slick/slick-theme.css"/>
+        <title>Wire Works & Natural Works</title>
+    </head>
+    <body>
+        <div class="body_container">
+            <header>
+                <div class="site_header">
+                  <img src="../static/img/site_header.png" alt="wire_works_and_natural_works">
+                </div>
+            </header>
+            : include "include/nav_bar.tx"
+            <: block index -> {} :>
+        </div>
+        : include "include/footer.tx"
+        <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="./js/slick-1.8.0/slick/slick.min.js"></script>
+    </body>
+    <script type="text/javascript" src="./js/script.js"></script>
+</html>

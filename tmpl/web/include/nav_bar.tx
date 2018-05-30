@@ -1,0 +1,25 @@
+<nav>
+    <ul class="main-nav">
+        <li>
+            <a href="./story_of_beginning.html" class="item"><span>Story of the beginning<br/>〜はじまりのおはなし〜</span></a>
+        </li>
+        <li>
+            <a href="#" class="item">What's Oririn<br/>〜おりりんってなに？〜</a>
+        </li>
+        <li>
+            <a href="#" class="item">Profile & Works<br/>〜プロフィール & 作品集〜</a>
+        </li>
+        <li>
+            <a href="#" class="item">Lessons<br/>〜うたちゃんのれっすん〜</a>
+        </li>
+        <li>
+            <a href="#" class="item">Online Shop<br/>〜オンラインショップ〜</a>
+        </li>
+        <li>
+            <a href="#" class="item">Major Accomplishment<br/>〜今までのお仕事実績〜</a>
+        </li>
+        <li>
+            <a href="#" class="item last-a">Can I become a teacher<br/>〜先生になるには？〜</a>
+        </li>
+    </ul>
+</nav>
